@@ -15,7 +15,7 @@ I build full-stack web apps, landing pages, and CMS-based websites. Constantly l
 
 🛠️ My tech stack:
 - **Frontend:** React, Next.js, HTML, CSS (Tailwind), JS
-- **Backend:** Node.js (Express), Python (FastAPI)
+- **Backend:** Node.js (Express), Python (FastAPI), Java, C#, C++
 - **Database:** PostgreSQL, MySQL
 - **CMS:** WordPress, Sanity
 - **Other:** Git, Railway, Vercel, REST API
