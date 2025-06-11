@@ -32,7 +32,7 @@ I build full-stack web apps, landing pages, and CMS-based websites. Constantly l
 - Fullstack projects
 
 📫 Reach Out: **j.stec0312@gmail.com**  
-🌐 Portfolio: **https://portfolio-website-iota-jet.vercel.app/**
+🌐 Portfolio: **https://https://www.jakub-stec-webdev.com**
 
 ---
 
@@ -72,7 +72,7 @@ Tworzę aplikacje fullstack, strony internetowe i systemy CMS. Cały czas rozwij
 - Projekty fullstack
 
 📫 Kontakt: **j.stec0312@gmail.com**  
-🌐 Portfolio: **https://portfolio-website-iota-jet.vercel.app/**
+🌐 Portfolio: **https://www.jakub-stec-webdev.com**
 
 ---
 
